@@ -1,0 +1,29 @@
+body {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  font-family: arial;
+  background-image: url("https://undergroundjj.com/wp-content/uploads/2021/02/Royce1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header > h1 {
+  color: white;
+  margin-left: 800px;
+}
+
+header > h2 {
+  color: white;
+  height: 200px;
+  width: 400px;
+  margin-left: 770px;
+  margin-top: 40px;
+}
+
+#new-quote {
+  color: white;
+  margin-left: 100px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: black;
+}

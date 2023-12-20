@@ -1,0 +1,52 @@
+body {
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+}
+
+#p1, #p2, #p3 {
+  height: 700px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#p1 {
+  background-image: url("https://jitsandhits.com/wp-content/uploads/2022/12/z3fu-8gv66q.jpg");
+  height: 700px;
+  padding-top: 100px;
+}
+
+.video-description {
+  background-color: rgba(45,45,45,0.5);
+  color: white;
+  font-family: arial;
+  text-align: center;
+  width: 500px;
+  margin-left: 400px;
+  height: 210px;
+  border-radius: 5px;
+}
+
+#p2 {
+  background-image: url("https://wallpapers.com/images/hd/brazilian-jiu-jitsu-martial-arts-action-7tibhqjxmrcrpnqo.jpg");
+  padding-top: 40px;
+}
+
+#p2 > h3 {
+  height: 75px;
+  padding-top: 5px;
+}
+
+#p3 {
+  background-image: url("https://spoken.life/wp-content/uploads/2023/02/nolan-kent-x_V62hOwnDk-unsplash-scaled.jpg");
+  padding-top: 50px;
+}
+
+#p3 > h3 {
+  height: 75px;
+  padding-top: 20px;
+}
+
+.vid {
+  margin-left: 370px;
+}
